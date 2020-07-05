@@ -1,0 +1,16 @@
+C:\shapes\Shape\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+C:\shapes\Shape\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\shapes\Shape\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\shapes\Shape\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+C:\shapes\Shape\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+C:\shapes\Shape\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\shapes\Shape\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+C:\shapes\Shape\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+C:\shapes\Shape\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\shapes\Shape\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\shapes\Shape\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\shapes\Shape\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+C:\shapes\Shape\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache
+C:\shapes\Shape\Shapes\bin\Debug\netcoreapp3.1\ShapeLibrary.dll
+C:\shapes\Shape\Shapes\bin\Debug\netcoreapp3.1\ShapeLibrary.pdb
+C:\shapes\Shape\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CopyComplete

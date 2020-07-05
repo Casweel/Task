@@ -1,0 +1,9 @@
+C:\shapes\Shape\ShapeLibrary\bin\Debug\netstandard2.0\ShapeLibrary.deps.json
+C:\shapes\Shape\ShapeLibrary\bin\Debug\netstandard2.0\ShapeLibrary.dll
+C:\shapes\Shape\ShapeLibrary\bin\Debug\netstandard2.0\ShapeLibrary.pdb
+C:\shapes\Shape\ShapeLibrary\obj\Debug\netstandard2.0\ShapeLibrary.csprojAssemblyReference.cache
+C:\shapes\Shape\ShapeLibrary\obj\Debug\netstandard2.0\ShapeLibrary.AssemblyInfoInputs.cache
+C:\shapes\Shape\ShapeLibrary\obj\Debug\netstandard2.0\ShapeLibrary.AssemblyInfo.cs
+C:\shapes\Shape\ShapeLibrary\obj\Debug\netstandard2.0\ShapeLibrary.csproj.CoreCompileInputs.cache
+C:\shapes\Shape\ShapeLibrary\obj\Debug\netstandard2.0\ShapeLibrary.dll
+C:\shapes\Shape\ShapeLibrary\obj\Debug\netstandard2.0\ShapeLibrary.pdb
