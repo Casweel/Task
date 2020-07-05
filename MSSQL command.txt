@@ -1,0 +1,8 @@
+При связи "многие-ко-многим" как правило создается промежуточная таблица. Назовем ее "Products" 
+c полями "productId", "categoryId". 
+
+SELECT Product.name AS ProductName, Category.name as CategoryName
+FROM ((Category JOIN Products USING (Category.categoryId)) 
+JOIN Product USING (Category.productId))
+
+	
